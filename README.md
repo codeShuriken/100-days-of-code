@@ -15,6 +15,10 @@
 1. Solved Q91. Decode Ways on Leetcode.
 2. Solved 2 contest problems on Leetcode Weekly Contest 221.
 
-### Day5
+### Day 5
 1. Solved 3 leetcode questions. (upsolved 2 contest problems + 1 hard problem)
 2. Solved today's Daily Interview Problem [Minimum Edit Distance 1](https://github.com/codeShuriken/100-days-of-code/blob/master/Day5/MinDistOne.java)
+
+### Day 6
+1. Solved Q754. Reach a Number on Leetcode.
+2. Solved TikTok Hackerrank Challenge(4 questions).
