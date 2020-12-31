@@ -1,4 +1,7 @@
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.ArrayList;
+
 class ClosestPoints{
     public static void main(String[] args) {
         int[] x = {6, 12, 40, 5, 12, 3};
