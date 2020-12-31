@@ -28,4 +28,5 @@
 
 ### Day 8 (12/30/20)
 1. Solved Q289. Game of Life on Leetcode.
-2. 
+2. Solved today's Daily Interview Problem [Can Be a Palindrome?](https://github.com/codeShuriken/100-days-of-code/blob/master/Day8/CanBePalindrome.java)
+3. Solved the classic divide and conquer problem: [Closest Distance Between Points][https://github.com/codeShuriken/100-days-of-code/blob/master/Day8/ClosestPoints.java]
