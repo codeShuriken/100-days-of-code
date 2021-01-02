@@ -33,4 +33,6 @@
 
 ### Day 9 (12/31/20)
 1. Solved Q84. Largest Rectangle in Histogram on Leetcode.
-2.
+
+### Day 10 (1/1/21)
+1. Solved 1640. Check Array Formation Through Concatenation on Leetcode.
