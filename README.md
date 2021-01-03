@@ -41,3 +41,4 @@
 1. Solved Q1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree on LeetCode.
 2. Solved 5 questions in Leetcode Hard Top Interview Collection.
 3. Solved 1 problem in Leetcode Weekly Contest 222.
+4. Solved today's Daily Interview Problem: [Remove Duplicates From List](https://github.com/codeShuriken/100-days-of-code/blob/master/Day11/RemoveDuplicates.java)
