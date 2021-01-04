@@ -42,3 +42,7 @@
 2. Solved 5 questions in Leetcode Hard Top Interview Collection.
 3. Solved 1 problem in Leetcode Weekly Contest 222.
 4. Solved today's Daily Interview Problem: [Remove Duplicates From List](https://github.com/codeShuriken/100-days-of-code/blob/master/Day11/RemoveDuplicates.java)
+
+### Day 12 (1/3/21)
+1. Solved Q526. Beautiful Arrangement on LeetCode.
+2. Upsolved 2 Leetcode Contest 222 problems. 
