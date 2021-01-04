@@ -46,3 +46,7 @@
 ### Day 12 (1/3/21)
 1. Solved Q526. Beautiful Arrangement on LeetCode.
 2. Upsolved 2 Leetcode Contest 222 problems. 
+
+### Day 13 (1/4/21)
+1. Solved Q21. Merge Two Sorted Lists on Leetcode.
+2. Solved today's Daily Interview Problem: [Merge K Lists](https://github.com/codeShuriken/100-days-of-code/blob/master/Day13/MergeKLists.java)
