@@ -50,3 +50,11 @@
 ### Day 13 (1/4/21)
 1. Solved Q21. Merge Two Sorted Lists on Leetcode.
 2. Solved today's Daily Interview Problem: [Merge K Lists](https://github.com/codeShuriken/100-days-of-code/blob/master/Day13/MergeKLists.java)
+
+### Day 14 (1/5/21)
+1. Solved Q82. Remove Duplicates from Sorted List II on Leetcode.
+2. Solved all the remaining questions from Arrays and Strings section in Leetcode Hard Top Interview Collection.
+
+### Day 15 (1/6/21)
+1. Solved Q1539. Kth Missing Positive Number on Leetcode.
+2. 
