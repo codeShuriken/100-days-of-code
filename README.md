@@ -57,4 +57,6 @@
 
 ### Day 15 (1/6/21)
 1. Solved Q1539. Kth Missing Positive Number on Leetcode.
-2. 
+
+### Day 16 (1/7/21)
+1. Solved Q3. Longest Substring Without Repeating Characters on Leetcode.
