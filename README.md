@@ -61,3 +61,7 @@
 ### Day 16 (1/7/21)
 1. Solved Q3. Longest Substring Without Repeating Characters on Leetcode.
 2. Solved today's Daily Interview Problem: [Build Queue using two Stacks](https://github.com/codeShuriken/100-days-of-code/blob/master/Day16/MyQueue.java)
+3. Did 4 questions in Leetcode Hard Top Interview Collection.
+
+### Day 17 (1/8/21)
+1. Solved Q1662. Check If Two String Arrays are Equivalent. on Leetcode. 
