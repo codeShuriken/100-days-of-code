@@ -65,3 +65,12 @@
 
 ### Day 17 (1/8/21)
 1. Solved Q1662. Check If Two String Arrays are Equivalent. on Leetcode. 
+2. Solved 2 questions in Leetcode Hard Top Interview Collection.
+
+### Day 18 (1/9/21)
+1. Solved Q127. Word Ladder on Leetcode.
+2. Solved 6 questions in Leetcode Hard Top Interview Collection.
+
+### Day 19 (1/10/21)
+1. Solved Q1649. Create Sorted Array through Instructions on Leetcode.
+2. 
