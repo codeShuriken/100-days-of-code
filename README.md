@@ -70,7 +70,8 @@
 ### Day 18 (1/9/21)
 1. Solved Q127. Word Ladder on Leetcode.
 2. Solved 6 questions in Leetcode Hard Top Interview Collection.
+3. Solved [Alien Dictionary](https://github.com/codeShuriken/100-days-of-code/blob/master/Day18/AlienDictionary.java) problem
 
 ### Day 19 (1/10/21)
 1. Solved Q1649. Create Sorted Array through Instructions on Leetcode.
-2. 
+2. Solved 3 questions in Leetcode Hard Top Interview Collection.
