@@ -78,4 +78,4 @@
 
 ### Day 20 (1/11/21)
 1. Solved Q88. Merge Sorted Array on Leetcode.
-2. Solved 2 questions in Leetcode Hard Top Interview Collection.
+2. Solved 4 questions in Leetcode Hard Top Interview Collection.
