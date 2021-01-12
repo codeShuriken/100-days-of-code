@@ -75,3 +75,7 @@
 ### Day 19 (1/10/21)
 1. Solved Q1649. Create Sorted Array through Instructions on Leetcode.
 2. Solved 3 questions in Leetcode Hard Top Interview Collection.
+
+### Day 20 (1/11/21)
+1. Solved Q88. Merge Sorted Array on Leetcode.
+2. Solved 2 questions in Leetcode Hard Top Interview Collection.
