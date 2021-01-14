@@ -88,4 +88,9 @@
 ### Day 22 (1/13/21)
 1. Solved Q881. Boats to Save People on Leetcode.
 2. Solved today's Daily Interview Problem: [Maximum Continuous SubArray Sum](https://github.com/codeShuriken/100-days-of-code/blob/main/Day22/MaxContSubArray.java)
-3. 
+3. Solved 4 questions in Leetcode Hard Top Interview Collection.
+
+### Day 23 (1/14/21)
+1. Solved Q1658. Minimum Operations to Reduce X to Zero and Q1423. Maximum Points You Can Obtain from Cards on Leetcode.
+2. Solved today's Daily Interview Problem: [Sum Root To Leaf Numbers](https://github.com/codeShuriken/100-days-of-code/blob/main/Day23/SumRootToLeafNumbers.java)
+3. Solved  in Leetcode Hard Top Interview Collection.
