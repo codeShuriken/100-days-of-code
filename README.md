@@ -94,3 +94,8 @@
 1. Solved Q1658. Minimum Operations to Reduce X to Zero and Q1423. Maximum Points You Can Obtain from Cards on Leetcode.
 2. Solved today's Daily Interview Problem: [Sum Root To Leaf Numbers](https://github.com/codeShuriken/100-days-of-code/blob/main/Day23/SumRootToLeafNumbers.java)
 3. Solved 7 in Leetcode Hard Top Interview Collection (Collection Completed).
+
+
+### Day 24 (1/15/21)
+1. Solved Q1646. Get Maximum in Generated Array on Leetcode.
+2. 
