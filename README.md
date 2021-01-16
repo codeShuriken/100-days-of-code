@@ -98,4 +98,6 @@
 
 ### Day 24 (1/15/21)
 1. Solved Q1646. Get Maximum in Generated Array on Leetcode.
-2. 
+
+### Day 25 (1/16/21)
+1. Solved Q215. Kth Largest Element in an Array on Leetcode.
