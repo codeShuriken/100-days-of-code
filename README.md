@@ -102,3 +102,4 @@
 ### Day 25 (1/16/21)
 1. Solved Q215. Kth Largest Element in an Array on Leetcode.
 2. Solved today's Daily Interview Problem: [3 Sum Closest](https://github.com/codeShuriken/100-days-of-code/blob/main/Day25/ThreeSumClosest.java)
+3. Started revising Spring Boot JPA. Wrote an application to connect to a Postgres db, create an entiity and insert data into db.
