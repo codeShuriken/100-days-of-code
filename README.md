@@ -111,3 +111,7 @@
 ### Day 27 (1/18/21)
 1. Solved Q1679. Max Number of K-Sum Pairs on Leetcode.
 2. Solved today's Daily Interview Problem: [Merge Intervals](https://github.com/codeShuriken/100-days-of-code/blob/main/Day27/MergeIntervals.java)
+
+### Day 28 (1/19/21)
+1. Solved Q5. Longest Palindromic Substring on Leetcode.
+2. 
