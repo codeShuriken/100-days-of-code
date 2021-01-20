@@ -114,4 +114,7 @@
 
 ### Day 28 (1/19/21)
 1. Solved Q5. Longest Palindromic Substring on Leetcode.
+
+### Day 29 (1/20/21)
+1. Solved Q20. Valid Parentheses on Leetcode.
 2. 
