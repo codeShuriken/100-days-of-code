@@ -124,4 +124,5 @@
 
 ### Day 31 (1/22/21)
 1. Solved Q1657. Determine if Two Strings Are Close on Leetcode.
+2. Solved today's Daily Interview Problem: [Binary Tree Inorder Traversal](https://github.com/codeShuriken/100-days-of-code/blob/main/Day31/BinaryTreeInorderTraversal.java)
 
