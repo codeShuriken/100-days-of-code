@@ -118,3 +118,10 @@
 ### Day 29 (1/20/21)
 1. Solved Q20. Valid Parentheses on Leetcode.
 2. Started learning JavaScript by following tutorials from FreeCodeCamp.
+
+### Day 30 (1/21/21)
+1. Solved Q. on Leetcode.
+
+### Day 31 (1/22/21)
+1. Solved Q on Leetcode.
+
