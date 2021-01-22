@@ -120,8 +120,8 @@
 2. Started learning JavaScript by following tutorials from FreeCodeCamp.
 
 ### Day 30 (1/21/21)
-1. Solved Q. on Leetcode.
+1. Solved Q1673. Find the Most Competitive Subsequence on Leetcode.
 
 ### Day 31 (1/22/21)
-1. Solved Q on Leetcode.
+1. Solved Q1657. Determine if Two Strings Are Close on Leetcode.
 
