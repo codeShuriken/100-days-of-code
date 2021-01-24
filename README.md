@@ -128,4 +128,8 @@
 
 ### Day 32 (1/23/21)
 1. Solved Q1329. Sort the Matrix Diagonally on Leetcode.
+2. Completed Java Beginner Certificate exam on Hackerrank.
+
+### Day 33 (1/24/21)
+1. Solved Q23. Merge k Sorted Lists on Leetcode.
 2. 
