@@ -133,4 +133,9 @@
 
 ### Day 33 (1/24/21)
 1. Solved Q23. Merge k Sorted Lists on Leetcode.
-2. 
+
+### Day 34 (1/25/21)
+1. Solved Q1437. Check If All 1's Are at Least Length K Places Away on Leetcode.
+
+### Day 35 (1/26/21)
+1. Solved Q1631. Path With Minimum Effort (using Dijikstra) on Leetcode.
