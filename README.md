@@ -34,6 +34,7 @@
 ### Day 9 (12/31/20)
 1. Solved Q84. Largest Rectangle in Histogram on Leetcode.
 
+
 ### Day 10 (1/1/21)
 1. Solved Q1640. Check Array Formation Through Concatenation on Leetcode.
 
@@ -139,3 +140,4 @@
 
 ### Day 35 (1/26/21)
 1. Solved Q1631. Path With Minimum Effort (using Dijikstra) on Leetcode.
+2. Designed [HashSet](https://github.com/codeShuriken/100-days-of-code/blob/master/Day35/HashSet.java) 
