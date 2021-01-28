@@ -144,3 +144,6 @@
 
 ### Day 36 (1/27/21)
 1. Solved Q1680. Concatenation of Consecutive Binary Numbers on Leetcode.
+
+### Day 37 (1/28/21)
+1. Solved Q1663. Smallest String With A Given Numeric Value on Leetcode.
