@@ -141,3 +141,6 @@
 ### Day 35 (1/26/21)
 1. Solved Q1631. Path With Minimum Effort (using Dijikstra) on Leetcode.
 2. Designed [HashSet](https://github.com/codeShuriken/100-days-of-code/blob/master/Day35/HashSet.java) 
+
+### Day 36 (1/27/21)
+1. Solved Q1680. Concatenation of Consecutive Binary Numbers on Leetcode.
