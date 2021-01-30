@@ -147,3 +147,6 @@
 
 ### Day 37 (1/28/21)
 1. Solved Q1663. Smallest String With A Given Numeric Value on Leetcode.
+
+### Day 38 (1/29/21)
+1. Solved Q987. Vertical Order Traversal of a Binary Tree on Leetcode.
