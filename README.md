@@ -130,7 +130,7 @@
 ### Day 32 (1/23/21)
 1. Solved Q1329. Sort the Matrix Diagonally on Leetcode.
 2. Completed Java Beginner Certificate exam on Hackerrank.
-3. Solved today's Daily Interview Problem: [Find the Duplicate NUmberl](https://github.com/codeShuriken/100-days-of-code/blob/main/Day32/FindTheDuplicateNumber.java)
+3. Solved today's Daily Interview Problem: [Find the Duplicate Number](https://github.com/codeShuriken/100-days-of-code/blob/main/Day32/FindTheDuplicateNumber.java)
 
 ### Day 33 (1/24/21)
 1. Solved Q23. Merge k Sorted Lists on Leetcode.
@@ -153,3 +153,4 @@
 
 ### Day 39 (1/30/21)
 1. Solved Q1675. Minimize Deviation in Array on Leetcode.
+2. Solved today's Daily Interview Problem: [Multiply Strings](https://github.com/codeShuriken/100-days-of-code/blob/main/Day39/MultiplyStrings.java)
