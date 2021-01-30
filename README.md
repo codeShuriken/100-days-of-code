@@ -150,3 +150,6 @@
 
 ### Day 38 (1/29/21)
 1. Solved Q987. Vertical Order Traversal of a Binary Tree on Leetcode.
+
+### Day 39 (1/30/21)
+1. Solved Q1675. Minimize Deviation in Array on Leetcode.
