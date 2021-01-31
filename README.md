@@ -154,3 +154,7 @@
 ### Day 39 (1/30/21)
 1. Solved Q1675. Minimize Deviation in Array on Leetcode.
 2. Solved today's Daily Interview Problem: [Multiply Strings](https://github.com/codeShuriken/100-days-of-code/blob/main/Day39/MultiplyStrings.java)
+
+### Day 40 (1/31/21)
+1. Solved Q31. Next Permutation on Leetcode.
+2. 
