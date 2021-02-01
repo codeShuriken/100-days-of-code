@@ -157,4 +157,8 @@
 
 ### Day 40 (1/31/21)
 1. Solved Q31. Next Permutation on Leetcode.
+2. Solved some sliding window questions.
+
+### Day 41 (2/1/21)
+1. Solved Q191. Number of 1 Bits on Leetcode.
 2. 
