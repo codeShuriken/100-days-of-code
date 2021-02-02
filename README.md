@@ -161,4 +161,8 @@
 
 ### Day 41 (2/1/21)
 1. Solved Q191. Number of 1 Bits on Leetcode.
+2. Solved 6 more Sliding window questions.
+
+### Day 42 (2/2/21)
+1. Solved Q669. Trim a Binary Search Tree on Leetcode.
 2. 
