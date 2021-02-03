@@ -165,4 +165,4 @@
 
 ### Day 42 (2/2/21)
 1. Solved Q669. Trim a Binary Search Tree on Leetcode.
-2. 
+2. Solved 6 Two Pointer questions.
