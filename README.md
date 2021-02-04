@@ -166,3 +166,11 @@
 ### Day 42 (2/2/21)
 1. Solved Q669. Trim a Binary Search Tree on Leetcode.
 2. Solved 6 Two Pointer questions.
+
+### Day 43 (2/3/21)
+1. Solved Q141. Linked List Cycle on Leetcode.
+2. Solved 3 Two Pointer Questions.
+
+### Day 44 (2/4/21)
+1. Solved Q594. Longest Harmonious Subsequence on Leetcode.
+2. 
