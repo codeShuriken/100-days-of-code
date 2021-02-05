@@ -173,4 +173,8 @@
 
 ### Day 44 (2/4/21)
 1. Solved Q594. Longest Harmonious Subsequence on Leetcode.
+2. Solved 7 Slow-Fast Pointer questions
+
+### Day 45 (2/5/21)
+1. Solved Q71. Simplify Path on Leetcode.
 2. 
