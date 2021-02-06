@@ -178,3 +178,6 @@
 ### Day 45 (2/5/21)
 1. Solved Q71. Simplify Path on Leetcode.
 2. Solved 2 DIP questions [Restoring IP Address](https://github.com/codeShuriken/100-days-of-code/blob/main/Day45/RestoreIPAddress.java) and [Integer to Roman](https://github.com/codeShuriken/100-days-of-code/blob/main/Day45/IntegerToRoman.java)
+
+### Day 46 (2/6/21)
+1. Solved Q199. Binary Tree Right Side View on Leetcode.
