@@ -181,3 +181,7 @@
 
 ### Day 46 (2/6/21)
 1. Solved Q199. Binary Tree Right Side View on Leetcode.
+
+### Day 47 (2/7/21)
+1. Solved Q821. Shortest Distance to a Character on Leetcode.
+2. 
