@@ -184,4 +184,6 @@
 
 ### Day 47 (2/7/21)
 1. Solved Q821. Shortest Distance to a Character on Leetcode.
-2. 
+
+### Day 48 (2/8/21)
+1. Solved Q284. Peeking Iterator on Leetcode.
