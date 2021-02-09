@@ -187,3 +187,7 @@
 
 ### Day 48 (2/8/21)
 1. Solved Q284. Peeking Iterator on Leetcode.
+2. Sorting an array using various algorithms [Sort an Array](https://github.com/codeShuriken/100-days-of-code/blob/main/Day48/SortAnArray.java)
+
+### Day 49 (2/9/21)
+1. Solved Q538. Convert BST to Greater Tree on Leetcode.
