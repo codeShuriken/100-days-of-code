@@ -193,3 +193,6 @@
 1. Solved Q538. Convert BST to Greater Tree on Leetcode.
 2. Solved today's Daily Interview Problem: [Reverse Nodes In K-Group](https://github.com/codeShuriken/100-days-of-code/blob/main/Day49/ReverseNodesInKGroup.java)
 3. Solved 6 Merge Intervals Problems and 1 DFS/BFS problem.
+
+### Day 50 (2/10/21)
+1. Solved Q138. Copy List with Random Pointer on Leetcode.
