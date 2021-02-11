@@ -196,3 +196,7 @@
 
 ### Day 50 (2/10/21)
 1. Solved Q138. Copy List with Random Pointer on Leetcode.
+2. Solved 5 Cyclic Sort Problems.
+
+### Day 51 (2/11/21)
+1. Solved Q242. Valid Anagram on Leetcode.
