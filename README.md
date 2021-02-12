@@ -200,3 +200,8 @@
 
 ### Day 51 (2/11/21)
 1. Solved Q242. Valid Anagram on Leetcode.
+2. Solved 3 Cyclic Sort problems and 5 Linked List problems.
+
+### Day 52 (2/12/21)
+1. Solved Q1342. Number of Steps to Reduce a Number to Zero on Leetcode.
+
