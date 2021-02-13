@@ -205,3 +205,6 @@
 ### Day 52 (2/12/21)
 1. Solved Q1342. Number of Steps to Reduce a Number to Zero on Leetcode.
 
+### Day 53 (2/13/21)
+1. Solved Q1091. Shortest Path in Binary Matrix on Leetcode.
+
