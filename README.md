@@ -211,3 +211,7 @@
 
 ### Day 54 (2/14/21)
 1. Solved [Q785. Is Graph Bipartite?](https://github.com/codeShuriken/100-days-of-code/blob/main/Day54/IsGraphBipartite.java) on Leetcode.
+2. Solved 7 DFS and 9 BFS questions. 
+
+### Day 55 (2/15/21)
+1. Solved Q1337. The K Weakest Rows in a Matrix on Leetcode.
