@@ -215,3 +215,8 @@
 
 ### Day 55 (2/15/21)
 1. Solved Q1337. The K Weakest Rows in a Matrix on Leetcode.
+2. Solved few problems on Stackline OA.
+
+### Day 56 (2/16/21)
+1. Solved Q784. Letter Case Permutation on Leetcode.
+
