@@ -227,4 +227,7 @@
 
 ### Day 58 (2/18/21)
 1. Solved Q413. Arithmetic Slices on Leetcode.
-2. 
+2. Solved 4 Bitwise XOR problems.
+
+### Day 59 (2/19/21)
+1. Solved Q1249. Minimum Remove to Make Valid Parentheses on Leetcode.
