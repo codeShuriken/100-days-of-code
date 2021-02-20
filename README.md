@@ -231,3 +231,8 @@
 
 ### Day 59 (2/19/21)
 1. Solved Q1249. Minimum Remove to Make Valid Parentheses on Leetcode.
+2. Solved 6 Top K Elements questions.
+
+### Day 60 (2/20/21)
+1. Solved Q13. Roman to Integer on Leetcode.
+2. 
