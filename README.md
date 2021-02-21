@@ -235,4 +235,7 @@
 
 ### Day 60 (2/20/21)
 1. Solved Q13. Roman to Integer on Leetcode.
-2. 
+2. Solved 1 Top K Elements questions.
+
+### Day 61 (2/21/21)
+1. Solved Q991. Broken Calculator on Leetcode.
