@@ -239,3 +239,8 @@
 
 ### Day 61 (2/21/21)
 1. Solved Q991. Broken Calculator on Leetcode.
+2. Solved 4 Top K Elements Questions.
+
+### Day 62 (2/22/21)
+1. Solved Q524. Longest Word in Dictionary through Deleting on Leetcode.
+2. 
