@@ -244,3 +244,7 @@
 ### Day 62 (2/22/21)
 1. Solved Q524. Longest Word in Dictionary through Deleting on Leetcode.
 2. Solved 2 Top k elements and 5 k way merge problems.
+
+### Day 63 (2/23/21)
+1. Solved Q240. Search a 2D Matrix II on Leetcode.
+2. 
