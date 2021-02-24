@@ -247,4 +247,9 @@
 
 ### Day 63 (2/23/21)
 1. Solved Q240. Search a 2D Matrix II on Leetcode.
+2. Solved 6 0/1 Knapsack problems.
+3. Solved 2 DIP problems [Valid Sudoku]() and [Distinct Subsequences]().
+
+### Day 64 (2/24/21)
+1. Solved Q856. Score of Parentheses on Leetcode.
 2. 
