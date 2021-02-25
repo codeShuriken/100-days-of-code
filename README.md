@@ -256,3 +256,4 @@
 
 ### Day 65 (2/25/21)
 1. Solved Q581. Shortest Unsorted Continuous Subarray on Leetcode.
+2. Solved todays DIP problem [Remove Duplicates From Arrays 2](https://github.com/codeShuriken/100-days-of-code/blob/main/Day65/RemoveDupFromSortedArray2.java)
