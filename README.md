@@ -252,4 +252,7 @@
 
 ### Day 64 (2/24/21)
 1. Solved Q856. Score of Parentheses on Leetcode.
-2. 
+2. Solved 7 Topological Sort Problems.
+
+### Day 65 (2/25/21)
+1. Solved Q581. Shortest Unsorted Continuous Subarray on Leetcode.
