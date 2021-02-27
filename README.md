@@ -260,3 +260,6 @@
 
 ### Day 66 (2/26/21)
 1. Solved Q946. Validate Stack Sequences on Leetcode.
+
+### Day 67 (2/27/21)
+1. Solved Q29. Divide Two Integers on Leetcode.
