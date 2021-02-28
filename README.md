@@ -263,3 +263,6 @@
 
 ### Day 67 (2/27/21)
 1. Solved Q29. Divide Two Integers on Leetcode.
+
+### Day 68 (2/28/21)
+1. Solved Q895. Maximum Frequency Stack on Leetcode.
