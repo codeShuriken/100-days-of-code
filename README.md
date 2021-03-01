@@ -266,3 +266,6 @@
 
 ### Day 68 (2/28/21)
 1. Solved Q895. Maximum Frequency Stack on Leetcode.
+
+### Day 69 (3/1/21)
+1. Solved Q575. Distribute Candies on Leetcode.
