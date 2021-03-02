@@ -270,3 +270,7 @@
 ### Day 69 (3/1/21)
 1. Solved Q575. Distribute Candies on Leetcode.
 2. Solved todays DIP problem [kth Smallest Element In A BST](https://github.com/codeShuriken/100-days-of-code/blob/main/Day69/KthSmallestElementInABST.java)
+3. Solved 6 easy questions on AlgoExpert.io.
+
+### Day 70 (3/2/21)
+1. Solved Q645. Set Mismatch on Leetcode.
