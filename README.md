@@ -274,3 +274,7 @@
 
 ### Day 70 (3/2/21)
 1. Solved Q645. Set Mismatch on Leetcode.
+
+### Day 71 (3/3/21)
+1. Solved Q268. Missing Number on Leetcode.
+
