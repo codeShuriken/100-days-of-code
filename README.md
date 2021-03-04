@@ -278,3 +278,6 @@
 ### Day 71 (3/3/21)
 1. Solved Q268. Missing Number on Leetcode.
 
+### Day 72 (3/4/21)
+1. Solved Q160. Intersection of Two Linked Lists on Leetcode.
+
