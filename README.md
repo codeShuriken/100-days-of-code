@@ -281,3 +281,5 @@
 ### Day 72 (3/4/21)
 1. Solved Q160. Intersection of Two Linked Lists on Leetcode.
 
+### Day 74 (3/5/21)
+1. Solved Q637. Average of Levels in Binary Tree on Leetcode.
