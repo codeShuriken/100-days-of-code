@@ -283,3 +283,6 @@
 
 ### Day 74 (3/5/21)
 1. Solved Q637. Average of Levels in Binary Tree on Leetcode.
+
+### Day 75 (3/6/21)
+1. Solved Q820. Short Encoding of Words on Leetcode.
