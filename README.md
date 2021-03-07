@@ -287,3 +287,6 @@
 ### Day 75 (3/6/21)
 1. Solved Q820. Short Encoding of Words on Leetcode.
 2. Solved todays DIP problem [Sum Of Square Numbers](https://github.com/codeShuriken/100-days-of-code/blob/main/Day75/SumOfSquareNumbers.java)
+
+### Day 76 (3/7/21)
+1. Designed [HashMap](https://github.com/codeShuriken/100-days-of-code/blob/main/Day76/DesignHashMap.java).
