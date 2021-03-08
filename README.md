@@ -290,3 +290,7 @@
 
 ### Day 76 (3/7/21)
 1. Designed [HashMap](https://github.com/codeShuriken/100-days-of-code/blob/main/Day76/DesignHashMap.java).
+2. Solved 3 Algo Expert Problems.
+
+### Day 77 (3/8/21)
+1. Designed Q1332. Remove Palindromic Subsequences on Leetcode.
