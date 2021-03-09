@@ -293,4 +293,7 @@
 2. Solved 3 Algo Expert Problems.
 
 ### Day 77 (3/8/21)
-1. Designed Q1332. Remove Palindromic Subsequences on Leetcode.
+1. Solved Q1332. Remove Palindromic Subsequences on Leetcode.
+
+### Day 78 (3/9/21)
+1. Solved Q623. Add One Row to Tree on Leetcode.
