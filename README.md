@@ -298,3 +298,7 @@
 ### Day 78 (3/9/21)
 1. Solved Q623. Add One Row to Tree on Leetcode.
 2. Solved todays DIP problem [Maximum Difference Between Node and Ancestor](https://github.com/codeShuriken/100-days-of-code/blob/main/Day78/MaxDiffBetweenNodeAndAncestor.java)
+3. Solved 10 AlgoExpert easy questions.
+
+### Day 79 (3/10/21)
+1. Solved Q12. Integer to Roman on Leetcode.
