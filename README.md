@@ -306,3 +306,7 @@
 
 ### Day 80 (3/11/21)
 1. Solved Q322. Coin Change on Leetcode.
+2. Completed Ebay OA.
+
+### Day 81 (3/12/21)
+1. Solved Q1461. Check If a String Contains All Binary Codes of Size K on Leetcode.
