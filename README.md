@@ -310,3 +310,6 @@
 
 ### Day 81 (3/12/21)
 1. Solved Q1461. Check If a String Contains All Binary Codes of Size K on Leetcode.
+
+### Day 82 (3/13/21)
+1. Solved Q823. Binary Trees With Factors on Leetcode.
