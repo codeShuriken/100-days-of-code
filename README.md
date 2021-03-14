@@ -313,3 +313,6 @@
 
 ### Day 82 (3/13/21)
 1. Solved Q823. Binary Trees With Factors on Leetcode.
+
+### Day 83 (3/14/21)
+1. Solved Q1721. Swapping Nodes in a Linked List on Leetcode.
