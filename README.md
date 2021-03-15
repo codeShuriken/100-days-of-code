@@ -316,3 +316,7 @@
 
 ### Day 83 (3/14/21)
 1. Solved Q1721. Swapping Nodes in a Linked List on Leetcode.
+2. Completed exam on Java Servlets, SQL and Hibernate.
+
+### Day 84(3/15/21)
+1. Solved Q535. Encode and Decode TinyURL on Leetcode.
