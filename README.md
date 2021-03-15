@@ -320,3 +320,4 @@
 
 ### Day 84(3/15/21)
 1. Solved Q535. Encode and Decode TinyURL on Leetcode.
+2. Solved todays DIP problem [Tuple With Same Product](https://github.com/codeShuriken/100-days-of-code/blob/main/Day84/TupleWithSameProduct.java)
