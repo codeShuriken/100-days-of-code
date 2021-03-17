@@ -324,3 +324,6 @@
 
 ### Day 85(3/16/21)
 1. Solved Q714. Best Time to Buy and Sell Stock with Transaction Fee on Leetcode.
+
+### Day 86(3/17/21)
+1. Solved Q478. Generate Random Point in a Circle on Leetcode.
