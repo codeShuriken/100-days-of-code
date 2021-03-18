@@ -327,3 +327,6 @@
 
 ### Day 86(3/17/21)
 1. Solved Q478. Generate Random Point in a Circle on Leetcode.
+
+### Day 87(3/18/21)
+1. Solved Q376. Wiggle Subsequence on Leetcode.
