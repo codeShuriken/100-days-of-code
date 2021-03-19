@@ -330,3 +330,6 @@
 
 ### Day 87(3/18/21)
 1. Solved Q376. Wiggle Subsequence on Leetcode.
+
+### Day 88 (3/19/21)
+1. Solved Q841. Keys and Rooms on Leetcode.
