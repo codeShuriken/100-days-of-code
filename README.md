@@ -333,3 +333,6 @@
 
 ### Day 88 (3/19/21)
 1. Solved Q841. Keys and Rooms on Leetcode.
+
+### Day 89 (3/20/21)
+1. Solved todays DIP problem [Design a Stack With Increment Operation](https://github.com/codeShuriken/100-days-of-code/blob/main/Day89/StackWithIncrementOperation.java)
