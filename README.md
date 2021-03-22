@@ -340,5 +340,7 @@
 
 ### Day 90 (3/21/21)
 1. Solved Q869. Reordered Power of 2 on Leetcode.
-2. 
+
+### Day 91 (3/22/21)
+1. Solved Q966. Vowel Spellchecker on Leetcode.
 
