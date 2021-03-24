@@ -347,3 +347,6 @@
 ### Day 92 (3/23/21)
 1. Solved Q923. 3Sum With Multiplicity on Leetcode.
 2. Solved todays DIP problem [Deepest Leaves Sum](https://github.com/codeShuriken/100-days-of-code/blob/main/Day92/DeepestLeavesSum.java)
+
+### Day 93 (3/24/21)
+1. Solved Q870. Advantage Shuffle on Leetcode.
