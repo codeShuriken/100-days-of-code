@@ -351,3 +351,6 @@
 ### Day 93 (3/24/21)
 1. Solved Q870. Advantage Shuffle on Leetcode.
 2. Solved todays DIP problem [Path In Zigzag Labelled Binary Tree](https://github.com/codeShuriken/100-days-of-code/blob/main/Day93/PathInZigzagBT.java)
+
+### Day 94 (3/25/21)
+1. Solved [Q417. Pacific Atlantic Water Flow](https://github.com/codeShuriken/100-days-of-code/blob/main/Day94/PacificAtlanticWaterFlow.java) on Leetcode.
