@@ -350,3 +350,4 @@
 
 ### Day 93 (3/24/21)
 1. Solved Q870. Advantage Shuffle on Leetcode.
+2. Solved todays DIP problem [Path In Zigzag Labelled Binary Tree](https://github.com/codeShuriken/100-days-of-code/blob/main/Day93/PatInZigzagBT.java)
