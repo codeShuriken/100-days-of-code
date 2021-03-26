@@ -354,3 +354,6 @@
 
 ### Day 94 (3/25/21)
 1. Solved [Q417. Pacific Atlantic Water Flow](https://github.com/codeShuriken/100-days-of-code/blob/main/Day94/PacificAtlanticWaterFlow.java) on Leetcode.
+
+### Day 95 (3/26/21)
+1. Solved Q916. Word Subsets on Leetcode.
