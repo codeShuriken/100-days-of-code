@@ -357,3 +357,6 @@
 
 ### Day 95 (3/26/21)
 1. Solved Q916. Word Subsets on Leetcode.
+
+### Day 96 (3/27/21)
+1. Solved Q647. Palindromic Substrings on Leetcode.
