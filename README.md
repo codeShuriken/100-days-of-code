@@ -360,3 +360,6 @@
 
 ### Day 96 (3/27/21)
 1. Solved Q647. Palindromic Substrings on Leetcode.
+
+### Day 97 (3/28/21)
+1. Solved [Q423. Reconstruct Original Digits](https://github.com/codeShuriken/100-days-of-code/blob/main/Day97/ReconstructOriginalDigits.java) on Leetcode.
