@@ -363,3 +363,6 @@
 
 ### Day 97 (3/28/21)
 1. Solved [Q423. Reconstruct Original Digits from English](https://github.com/codeShuriken/100-days-of-code/blob/main/Day97/ReconstructOriginalDigits.java) on Leetcode.
+
+### Day 98 (3/29/21)
+1. Solved Q971. Flip Binary Tree To Match Preorder Traversal on Leetcode.
