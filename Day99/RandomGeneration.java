@@ -7,7 +7,8 @@ class RandomGeneration{
         int k = 5;
         System.out.println(Arrays.toString(generateKNumbers(nums, k)));
     }
-
+    
+    //Reservoir Sampling
     public static int[] generateKNumbers(int[] nums, int k){
         int n = nums.length;
         Random rand = new Random();
