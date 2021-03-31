@@ -369,3 +369,4 @@
 
 ### Day 99 (3/30/21)
 1. Solved Q354. Russian Doll Envelopes on Leetcode.
+2. Solved todays DIP problem [Generate K numbers randomly from N Numbers with Uniform Distribution](https://github.com/codeShuriken/100-days-of-code/blob/main/Day99/RandomGeneration.java).
